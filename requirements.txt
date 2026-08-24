@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+scikit-learn
+numpy
