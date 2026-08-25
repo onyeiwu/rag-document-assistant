@@ -41,7 +41,17 @@ A powerful AI-powered document assistant that allows you to upload any PDF docum
 
 ## 🔧 How It Works
 
-User uploads PDF then text is extracted from each page then text is cleaned and filtered then text is split into chunks of 300 words then each chunk is converted to embeddings of 384 numbers then embeddings are stored in FAISS vector database then user asks a question then the question is converted to embedding then FAISS finds the most relevant chunks then chunks are sent to Groq LLM with the question then AI generates answer with page references.
+- User uploads PDF
+- Text is extracted using PyMuPDF
+- Text is cleaned and filtered
+- Text is split into chunks (300 words)
+- Each chunk is converted into embeddings (384-dim vector)
+- Stored in FAISS vector database
+- User asks a question
+- Question is embedded
+- FAISS retrieves relevant chunks
+- Context + question sent to Groq LLM
+- AI generates answer with page references
 
 ## 📦 Installation — Run Locally
 
