@@ -91,6 +91,12 @@ The app automatically switches between these models if one hits the rate limit:
 | groq/compound-mini | Groq |
 | qwen/qwen3.6-27b | Groq |
 
+## 📊 Limitations
+
+- Doesn’t support scanned PDFs (no OCR yet)
+- Performance depends on chunk quality
+- Limited by API rate limits
+
 ## 📁 Project Structure
 
 app.py — Main Streamlit application
