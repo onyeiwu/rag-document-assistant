@@ -10,6 +10,9 @@
 
 A Retrieval-Augmented Generation (RAG) system that allows users to upload PDF documents and ask natural language questions, with answers grounded in the document and supported by page-level references.
 
+## Why this project matters
+This project demonstrates how modern AI systems can combine retrieval and generation to reduce hallucinations and provide accurate, document-grounded answers.
+
 ## 🚀 Live Demo
 
 👉 [Click here to use the app](https://your-app-link.streamlit.app)
