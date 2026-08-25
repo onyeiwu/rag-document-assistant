@@ -8,7 +8,7 @@
 
 ## 🌟 What is This App?
 
-A powerful AI-powered document assistant that allows you to upload any PDF document and ask questions about it in plain English. Built using RAG (Retrieval Augmented Generation) technology.
+A Retrieval-Augmented Generation (RAG) system that allows users to upload PDF documents and ask natural language questions, with answers grounded in the document and supported by page-level references.
 
 ## 🚀 Live Demo
 
