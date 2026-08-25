@@ -15,7 +15,7 @@ This project demonstrates how modern AI systems can combine retrieval and genera
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](https://your-app-link.streamlit.app)
+👉 👉 [Click here to use the app](https://gabriel-rag-assistant.streamlit.app)
 
 ## ✨ Features
 
