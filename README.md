@@ -118,7 +118,7 @@ rag_lesson.ipynb — Development notebook
 ## 👨‍💻 Author
 
 Onyeiwu Gabriel Chibuzor
-University Project
+Personal Project
 Built with Python and Streamlit
 
 ## 📜 License
